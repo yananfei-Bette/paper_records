@@ -6,3 +6,8 @@
 3. [Code](https://github.com/titu1994/LSTM-FCN)
 4. [z-normalization](https://jmotif.github.io/sax-vsm_site/morea/algorithm/znorm.html)
 5. [1NN + DTW](https://mp.weixin.qq.com/s/EF2r1GHB6JUJYLlU4idxYA)
+
+
+# Kerberos
+1. [Def of kerberos](https://web.mit.edu/kerberos/)
+2. [More detals](https://blog.csdn.net/wulantian/article/details/42418231)
